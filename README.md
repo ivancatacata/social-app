@@ -2,6 +2,8 @@
 
 A modern social feed application built with **Angular 18**, leveraging **SSR**, **Signals**, and a clean UI powered by **Tailwind CSS**.
 
+Public URL: https://social-app-umber-eta.vercel.app/login
+
 ---
 
 ##  SSR Strategy
